@@ -1,6 +1,6 @@
 # Brain Hemorrhage Detection Model
 
-This project uses a deep learning model to detect brain hemorrhaging within DICOM medical images. This project was completed by George Barker, Zach Francis, Julio Lopez, and Andre Zeromski.
+This project uses a deep learning model to detect brain hemorrhaging within DICOM medical images. This project was completed by Divyansh Khare, Jalaj Srivastav.
 
 ## Table of Contents
 - [How to Run Code](#How-to-Run-Code)
